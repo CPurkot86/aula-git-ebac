@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome:Cleverson
+-Profissão:QA ANALYST
+-Cidade:Curitiba
+-O que faz nas horas vaga:Estudar, Lazer, Esportes, Games etc.
+-Feedback sobre o curso Qualidade de Software:Participar do curso de Qualidade de Software na EBAC está sendo uma experiência incrível. Desde o início, fiquei impressionado com a qualidade do conteúdo e o profissionalismo dos instrutores. O curso abordou de forma abrangente todos os aspectos importantes relacionados à qualidade de software, desde os conceitos fundamentais até as melhores práticas e metodologias atuais.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma de estudo da EBAC me proporcionou uma experiência excepcional durante o curso. Fiquei impressionado com a qualidade e a usabilidade do ambiente virtual de aprendizagem. A navegação pela plataforma foi intuitiva e fácil de entender, o que facilitou o acesso aos materiais do curso.
 
 Obrigado!!!
 
